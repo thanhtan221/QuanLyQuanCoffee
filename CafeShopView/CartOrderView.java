@@ -212,7 +212,7 @@ public class CartOrderView {
                 case 2:
                     Menu();
                     break;
-                case 3: 
+                case 3:
                     System.exit(0);
                     menuCofffeShop.menus();
                 default:
